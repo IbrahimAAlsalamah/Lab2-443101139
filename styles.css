@@ -1,0 +1,13 @@
+body {
+    background-color: #ffffc8;
+}
+h1 {
+    text-align: center;
+    color: darkred;
+}
+
+p {
+    font-family:"Arial Narrow";
+    font-size: 20px;
+    margin: 50px;
+}
